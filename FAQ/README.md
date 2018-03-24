@@ -29,6 +29,8 @@ Sono 24 ore di laboratorio e 47 di studio individuale
 
 Ci saranno piccoli incarichi di lezione in lezione, e verranno portati avanti progetti individuali o di gruppo durante il corso, ma nessuna prova formale.
 
+#### In cosa consisterà la prova finale esattamente?
+
 Domande tecniche:
 -----------------
 
